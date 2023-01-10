@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0d20a5e-7825-403d-a255-6d250657f59b": {
+      "ProjectGuid": "b0d20a5e-7825-403d-a255-6d250657f59b",
+      "DisplayName": "Lab 1 Room Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
